@@ -1,0 +1,27 @@
+{
+  "name": "hhpakistan.github.io",
+  "description": "HHPakistan's online presence",
+  "main": "index.js",
+  "authors": [
+    "Hannan Ali <abdulhannanali@outlook.com>"
+  ],
+  "license": "CC Universal 1.0",
+  "keywords": [
+    "hackathon",
+    "hackers",
+    "hh",
+    "pakistan",
+    "hackathons"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}
